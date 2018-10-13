@@ -1,0 +1,22 @@
+{
+    "name": "Uranus",
+    "displayName": "Uranus",
+    "description": "Uranus theme",
+    "version": "0.0.1",
+    "publisher": "uranus",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Uranus",
+                "uiTheme": "vs-dark",
+                "path": "./themes/uranus-color-theme.json"
+            }
+        ]
+    }
+}
